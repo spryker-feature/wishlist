@@ -1,0 +1,13 @@
+{
+  "name": "spryker-feature/wishlist",
+  "description": "Wishlist [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/wishlist-page": "^1.5.0",
+    "spryker-shop/wishlist-widget": "^1.1.0",
+    "spryker/wishlist": "^6.4.0"
+  }
+}
