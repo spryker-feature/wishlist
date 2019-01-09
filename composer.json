@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-shop/wishlist-page": "^1.5.0",
+    "spryker-shop/wishlist-page": "^1.5.1",
     "spryker-shop/wishlist-widget": "^1.1.0",
     "spryker/wishlist": "^6.4.1"
   }
