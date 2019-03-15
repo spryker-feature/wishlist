@@ -1,6 +1,6 @@
 # Spryker Feature: Wishlist
 
-Convert Wish List to Cart, Multiple Wish Lists, Named Wish Lists
+With the Wishlist feature, the customers can track and save the products they wish to purchase through the wish list. The customers can create multiple wish lists and customize their names.
 
 ## Installation
 
