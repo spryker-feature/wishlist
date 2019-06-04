@@ -9,7 +9,7 @@
     "php": ">=7.1",
     "spryker-shop/wishlist-page": "^1.5.1",
     "spryker-shop/wishlist-widget": "^1.1.0",
-    "spryker/wishlist": "^6.4.1"
+    "spryker/wishlist": "^7.0.0"
   },
   "extra": {
     "branch-alias": {
