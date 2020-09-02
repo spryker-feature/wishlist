@@ -10,4 +10,4 @@ composer require spryker-feature/wishlist
 
 ## Optional modules
 - [WishlistItemsProductsResourceRelationship ^1.0.1](https://github.com/spryker/wishlist-items-products-resource-relationship) (Glue)
-- [WishlistsRestApi ^1.3.0](https://github.com/spryker/wishlists-rest-api) (Glue)
+- [WishlistsRestApi ^1.4.0](https://github.com/spryker/wishlists-rest-api) (Glue)
