@@ -2,6 +2,8 @@
 
 With the Wishlist feature, the customers can track and save the products they wish to purchase through the wish list. The customers can create multiple wish lists and customize their names.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/shopping-list-and-wishlist/202307.0/base-shop/wishlist-feature-overview.html)
+
 ## Installation
 
 ```
